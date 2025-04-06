@@ -16,6 +16,10 @@ This flowchart shows the system's architecture including:
 - Retrieval process using RAG + SQL
 - Chat loop flow with query processing and response generation
 
+## Interface Demo
+![Interface1](UI1.png)
+![Interface2](UI2.png)
+
 ## Installation
 
 ### Prerequisites
@@ -103,7 +107,3 @@ To start the web interface:
    ```
 
 3. Open your web browser and navigate to `http://localhost:8000` to access the web interface.
-
-## Interface Demo
-![Interface1](UI1.png)
-![Interface2](UI2.png)
