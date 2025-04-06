@@ -1,5 +1,4 @@
 # PriceSelect Chat Agent
-
 PriceSelect Chat Agent is an intelligent conversational system designed to assist users with appliance parts selection and repair guidance. The agent combines advanced RAG (Retrieval-Augmented Generation) technology with SQL database integration to provide accurate, context-aware responses for appliance maintenance and repair queries.
 
 ## Key Features
@@ -28,14 +27,14 @@ This flowchart shows the system's architecture including:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/zehuiwu/priceselect-agent.git
 cd priceselect-agent
 ```
 
 2. Create and activate a new conda environment:
 ```bash
-conda create -n lily_new python=3.11
-conda activate lily_new
+conda create -n new_env python=3.11
+conda activate new_env
 ```
 
 3. Install the required packages:
@@ -47,7 +46,6 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory with the following variables:
 ```
 OPENAI_API_KEY=your_openai_api_key
-ANTHROPIC_API_KEY=your_anthropic_api_key
 DEEPSEEK_API_KEY=your_deepseek_api_key
 ```
 
@@ -105,3 +103,7 @@ To start the web interface:
    ```
 
 3. Open your web browser and navigate to `http://localhost:8000` to access the web interface.
+
+## Interface Demo
+![Interface1](UI1.png)
+![Interface2](UI2.png)
