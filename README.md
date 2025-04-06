@@ -1,5 +1,5 @@
 # PartSelect Chat Agent
-PriceSelect Chat Agent is an intelligent conversational system designed to assist users with appliance parts selection and repair guidance. The agent combines advanced RAG (Retrieval-Augmented Generation) technology with SQL database integration to provide accurate, context-aware responses for appliance maintenance and repair queries.
+PartSelect Chat Agent is an intelligent conversational system designed to assist users with appliance parts selection and repair guidance. The agent combines advanced RAG (Retrieval-Augmented Generation) technology with SQL database integration to provide accurate, context-aware responses for appliance maintenance and repair queries.
 
 ## Key Features
 - 🔍 Smart parts identification and pricing information
