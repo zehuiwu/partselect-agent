@@ -31,7 +31,7 @@ This flowchart shows the system's architecture including:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zehuiwu/priceselect-agent.git
+git clone https://github.com/zehuiwu/partselect-agent.git
 cd priceselect-agent
 ```
 
